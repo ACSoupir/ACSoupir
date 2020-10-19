@@ -19,4 +19,5 @@ Some information for GitHub:
 
 ### Languages and Tools:
 
+[![rcran](https://cran.r-project.org/Rlogo.svg)][https://cran.r-project.org/]
 [<img align="left" alt="R and R Studio" width="26px" src="https://cran.r-project.org/Rlogo.svg" />][https://cran.r-project.org/]
