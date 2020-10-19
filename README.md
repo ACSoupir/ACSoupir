@@ -36,12 +36,6 @@ Some information for GitHub:
 
 ---
 
-<!--
-### Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
--->
-
 [rcran]: https://cran.r-project.org/
 [youtube]: https://www.youtube.com/playlist?list=PL-0fKymgD8L8qW7SQDaEf3lrSyUkEkR1k
 [preterm]: https://github.com/ACSoupir/Preterm-Dream-Challenge/blob/master/Neural_Net_Write_Up.md
