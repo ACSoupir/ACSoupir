@@ -16,3 +16,7 @@ Some information for GitHub:
 - 🤔 I’m looking for help with ... learning Python more and scripting in bash, but am really interested in learning ground up coding for software development.
 - 💬 Ask me about ... anything!
 - ⚡ Fun fact: ... I like teaching as much as learning. Pursuing knowledge is fun but being able to pass on knowledge is incredible too.
+
+### Languages and Tools:
+
+[<img align="left" alt="R and R Studio" width="26px" src="https://cran.r-project.org/Rlogo.svg" />]
