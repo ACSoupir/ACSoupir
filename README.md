@@ -19,11 +19,13 @@ Some information for GitHub:
 
 ### Languages and Tools:
 
-[<img align="left" alt="R and R Studio" width="26px" src="https://cran.r-project.org/Rlogo.svg" />][rcran]
-[<img align="left" alt="R and R Studio" width="26px" src="https://simpleicons.org/icons/python.svg" />][youtube]
-[<img align="left" alt="R and R Studio" width="26px" src="https://simpleicons.org/icons/gnubash.svg" />][youtube]
+[<img align="left" alt="R and R Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][rcran]
+[<img align="left" alt="R and R Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
+[<img align="left" alt="R and R Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][youtube]
+[<img align="left" alt="R and R Studio" width="26px" src="https://camo.githubusercontent.com/0d08dc4f9466d347e8d28a951ea51e3430c6f92c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67" />][preterm]
 
 
 
 [rcran]: https://cran.r-project.org/
 [youtube]: https://www.youtube.com/playlist?list=PL-0fKymgD8L8qW7SQDaEf3lrSyUkEkR1k
+[preterm]: https://github.com/ACSoupir/Preterm-Dream-Challenge/blob/master/Neural_Net_Write_Up.md
