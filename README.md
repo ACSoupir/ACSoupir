@@ -32,6 +32,11 @@ Some information for GitHub:
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Bioinformatics - Gene Ontology (GO) Enrichment Analysis](https://www.youtube.com/watch?v=BZyi8L7vBuc)
+- [Bioinformatics - Finding Differentially Expressed Genes with DESeq2!](https://www.youtube.com/watch?v=ZjMfiPLuwN4)
+- [Bioinformatics - Visualizing Counts Data](https://www.youtube.com/watch?v=5z_1ziS0-5w)
+- [Bioinformatics - Quick Look at Counts and Setting Up R Project](https://www.youtube.com/watch?v=hYI7bXwrXGI)
+- [Bioinformatics - Contamination QC and FeatureCounts](https://www.youtube.com/watch?v=hX9vCII__Ok)
 <!-- YOUTUBE:END -->
 
 ---
