@@ -20,6 +20,10 @@ Some information for GitHub:
 ### Languages and Tools:
 
 [<img align="left" alt="R and R Studio" width="26px" src="https://cran.r-project.org/Rlogo.svg" />][rcran]
-[<img align="left" alt="R and R Studio" width="26px" src="https://simpleicons.org/icons/python.svg" />][rcran]
+[<img align="left" alt="R and R Studio" width="26px" src="https://simpleicons.org/icons/python.svg" />][youtube]
+[<img align="left" alt="R and R Studio" width="26px" src="https://simpleicons.org/icons/gnubash.svg" />][youtube]
+
+
 
 [rcran]: https://cran.r-project.org/
+[youtube]: https://www.youtube.com/playlist?list=PL-0fKymgD8L8qW7SQDaEf3lrSyUkEkR1k
