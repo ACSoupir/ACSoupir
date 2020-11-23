@@ -32,11 +32,11 @@ Some information for GitHub:
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Bioinformatics - Snakemake Workflow Management!](https://www.youtube.com/watch?v=_wUGzqEjg6A)
 - [Bioinformatics - Assembling, Annotating, and QA for Bacterial Genomes!](https://www.youtube.com/watch?v=XhhzJDdsQG4)
 - [Bioinformatics - KEGG Pathway Visualization in R](https://www.youtube.com/watch?v=SMBF4DyRiuo)
 - [Bioinformatics - Gene Ontology (GO) Enrichment Analysis](https://www.youtube.com/watch?v=BZyi8L7vBuc)
 - [Bioinformatics - Finding Differentially Expressed Genes with DESeq2!](https://www.youtube.com/watch?v=ZjMfiPLuwN4)
-- [Bioinformatics - Visualizing Counts Data](https://www.youtube.com/watch?v=5z_1ziS0-5w)
 <!-- YOUTUBE:END -->
 
 ---
