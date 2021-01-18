@@ -32,11 +32,11 @@ Some information for GitHub:
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Bioinformatics - fastp FastQ Preprocessing Tool (Timestamps)](https://www.youtube.com/watch?v=iutnoFqOee0)
 - [Setting up Window Subsystem for Linux (WSL1)](https://www.youtube.com/watch?v=D8gy6pnT6GE)
 - [iTIME: interactive Tumor Immune MicroEnvironment! (#Hackathon2020)](https://www.youtube.com/watch?v=Hk9v4hMkoWo)
 - [Bioinformatics - Prokaryote Pan Genome with Roary! (Timestamps)](https://www.youtube.com/watch?v=wMJ2EhwFqcU)
 - [Bioinformatics - Snakemake Workflow Management! (Timestamps)](https://www.youtube.com/watch?v=_wUGzqEjg6A)
-- [Bioinformatics - Assembling, Annotating, and QA for Bacterial Genomes!](https://www.youtube.com/watch?v=XhhzJDdsQG4)
 <!-- YOUTUBE:END -->
 
 ---
