@@ -34,9 +34,9 @@ Some information for GitHub:
 <!-- YOUTUBE:START -->
 - [Bioinformatics - Identifying New RNA-seq Splice Junctions (Timestamps)](https://www.youtube.com/watch?v=jO3Rh42Cx8Y)
 - [Bioinformatics - Setting Up UseGalaxy Locally! (Timestamps)](https://www.youtube.com/watch?v=fty9KM6dh_w)
-- [A little bit about me](https://www.youtube.com/watch?v=pk_UWVZUbuk)
 - [Bioinformatics - fastp FastQ Preprocessing Tool (Timestamps)](https://www.youtube.com/watch?v=iutnoFqOee0)
 - [Setting up Window Subsystem for Linux (WSL1)](https://www.youtube.com/watch?v=D8gy6pnT6GE)
+- [iTIME: interactive Tumor Immune MicroEnvironment! (#Hackathon2020)](https://www.youtube.com/watch?v=Hk9v4hMkoWo)
 <!-- YOUTUBE:END -->
 
 ---
