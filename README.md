@@ -32,11 +32,11 @@ Some information for GitHub:
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Bioinformatics - Identifying New RNA-seq Splice Junctions (Timestamps)](https://www.youtube.com/watch?v=jO3Rh42Cx8Y)
-- [Bioinformatics - Setting Up UseGalaxy Locally! (Timestamps)](https://www.youtube.com/watch?v=fty9KM6dh_w)
-- [Bioinformatics - fastp FastQ Preprocessing Tool (Timestamps)](https://www.youtube.com/watch?v=iutnoFqOee0)
-- [Setting up Window Subsystem for Linux (WSL1)](https://www.youtube.com/watch?v=D8gy6pnT6GE)
-- [iTIME: interactive Tumor Immune MicroEnvironment! (#Hackathon2020)](https://www.youtube.com/watch?v=Hk9v4hMkoWo)
+- [Bioinformatics - Identifying New RNA-seq Splice Junctions &lpar;Timestamps&rpar;](https://www.youtube.com/watch?v=jO3Rh42Cx8Y)
+- [Bioinformatics - Setting Up UseGalaxy Locally! &lpar;Timestamps&rpar;](https://www.youtube.com/watch?v=fty9KM6dh_w)
+- [Bioinformatics - fastp FastQ Preprocessing Tool &lpar;Timestamps&rpar;](https://www.youtube.com/watch?v=iutnoFqOee0)
+- [Setting up Window Subsystem for Linux &lpar;WSL1&rpar;](https://www.youtube.com/watch?v=D8gy6pnT6GE)
+- [iTIME: interactive Tumor Immune MicroEnvironment! &lpar;#Hackathon2020&rpar;](https://www.youtube.com/watch?v=Hk9v4hMkoWo)
 <!-- YOUTUBE:END -->
 
 ---
