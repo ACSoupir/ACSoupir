@@ -32,6 +32,7 @@ Some information for GitHub:
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spatial Transcriptomics - Part 4: Unsupervised InSituType](https://www.youtube.com/v/w8i9BVc8pds)
 - [Bioinformatics - Identifying New RNA-seq Splice Junctions &lpar;Timestamps&rpar;](https://www.youtube.com/watch?v=jO3Rh42Cx8Y)
 - [Bioinformatics - Setting Up UseGalaxy Locally! &lpar;Timestamps&rpar;](https://www.youtube.com/watch?v=fty9KM6dh_w)
 - [Bioinformatics - fastp FastQ Preprocessing Tool &lpar;Timestamps&rpar;](https://www.youtube.com/watch?v=iutnoFqOee0)
