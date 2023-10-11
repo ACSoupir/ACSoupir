@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 Some information for GitHub:
 
 - 🔭 I’m currently working on ... growing my youtube channel teaching some bioinformatics procedures for analyzing sequencing data.
-- 🌱 I’m currently learning ... how to perform ChIP capture for cell-free DNA to profile cancer patient cell-free DNA sources.
+- 🌱 I’m currently learning ... integrating multi-omic approaches to identify causes for immunotherapy resistance.
 - 👯 I’m looking to collaborate on ... data science projects for fun - have always had a soft sport for data analysis and predictive statistics.
 - 🤔 I’m looking for help with ... learning Python more and scripting in bash, but am really interested in learning ground up coding for software development.
 - 💬 Ask me about ... anything!
@@ -32,13 +32,27 @@ Some information for GitHub:
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Spatial Transcriptomics - Part 4: Unsupervised InSituType](https://www.youtube.com/v/w8i9BVc8pds)
+- [Spatial Transcriptomics - Part 4: Unsupervised InSituType](https://www.youtube.com/watch?v=w8i9BVc8pds)
+- [Spatial Transcriptomics - Part 3: Normalization and Dimension Reduction](https://www.youtube.com/watch?v=2PWqvFaOwBw)
+- [Spatial Transcriptomics - Part 2: Exploring Seurat Object](https://www.youtube.com/watch?v=f4d4-PVrtiI)
+- [Spatial Transcriptomics Intro - Part 1: What Is Spatial Transcriptomics](https://www.youtube.com/watch?v=_qsHqB67O70)
 - [Bioinformatics - Identifying New RNA-seq Splice Junctions &lpar;Timestamps&rpar;](https://www.youtube.com/watch?v=jO3Rh42Cx8Y)
 - [Bioinformatics - Setting Up UseGalaxy Locally! &lpar;Timestamps&rpar;](https://www.youtube.com/watch?v=fty9KM6dh_w)
 - [Bioinformatics - fastp FastQ Preprocessing Tool &lpar;Timestamps&rpar;](https://www.youtube.com/watch?v=iutnoFqOee0)
 - [Setting up Window Subsystem for Linux &lpar;WSL1&rpar;](https://www.youtube.com/watch?v=D8gy6pnT6GE)
 - [iTIME: interactive Tumor Immune MicroEnvironment! &lpar;#Hackathon2020&rpar;](https://www.youtube.com/watch?v=Hk9v4hMkoWo)
 <!-- YOUTUBE:END -->
+
+
+---
+
+### Software Packages
+
+- [spatialTIME](https://github.com/FridleyLab/spatialTIME): R package for deriving spatial statistics from point patterns created with biological data
+- [scSpatialSIM](https://fridleylab.github.io/scSpatialSIM/): R package for simulating biologically informed point patterns (multiplex IF, spatial transcriptomics, etc)
+- [spatialGE](https://fridleylab.github.io/spatialGE/): R package for analyzing spatial transcriptomics data informed with spatial context
+- [mxfda](https://github.com/julia-wrobel/mxfda): R package for functional data analysis of spatial statistics (no more need to pick an radius!)
+- [curatedPCaData](https://github.com/Syksy/curatedPCaData): R package of harmonized prostate cancer gene expression and copy number from almost 20 studies
 
 ---
 
