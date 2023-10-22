@@ -32,6 +32,7 @@ Some information for GitHub:
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Creating a conda Environment for Pytorch and Cuda](https://www.youtube.com/watch?v=_z6WPasIK8U)
 - [Spatial Transcriptomics - Part 4: Unsupervised InSituType](https://www.youtube.com/watch?v=w8i9BVc8pds)
 - [Spatial Transcriptomics - Part 3: Normalization and Dimension Reduction](https://www.youtube.com/watch?v=2PWqvFaOwBw)
 - [Spatial Transcriptomics - Part 2: Exploring Seurat Object](https://www.youtube.com/watch?v=f4d4-PVrtiI)
