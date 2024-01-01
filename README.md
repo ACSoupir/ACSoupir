@@ -44,16 +44,16 @@ Some information for GitHub:
 - [iTIME: interactive Tumor Immune MicroEnvironment! &lpar;#Hackathon2020&rpar;](https://www.youtube.com/watch?v=Hk9v4hMkoWo)
 <!-- YOUTUBE:END -->
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2fGWpRWBo6w"><img width="140px" src="https://i.ytimg.com/vi/2fGWpRWBo6w/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=K9xmd-HlBtg"><img width="140px" src="https://i.ytimg.com/vi/K9xmd-HlBtg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=K9xmd-HlBtg">Spatial Transcriptomics - Part 5: Univariate Spatial Clustering Calculation</a><br/>Dec 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rJEdfWkxkP4"><img width="140px" src="https://i.ytimg.com/vi/rJEdfWkxkP4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rJEdfWkxkP4">Running RStudio with Docker</a><br/>Dec 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2fGWpRWBo6w"><img width="140px" src="https://i.ytimg.com/vi/2fGWpRWBo6w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2fGWpRWBo6w">Assembling First Server Rack - Vivo 12U</a><br/>Dec 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_z6WPasIK8U"><img width="140px" src="https://i.ytimg.com/vi/_z6WPasIK8U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_z6WPasIK8U">Creating a conda Environment for Pytorch and Cuda</a><br/>Oct 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=w8i9BVc8pds"><img width="140px" src="https://i.ytimg.com/vi/w8i9BVc8pds/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=w8i9BVc8pds">Spatial Transcriptomics - Part 4: Unsupervised InSituType</a><br/>Oct 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2PWqvFaOwBw"><img width="140px" src="https://i.ytimg.com/vi/2PWqvFaOwBw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2PWqvFaOwBw">Spatial Transcriptomics  - Part 3: Normalization and Dimension Reduction</a><br/>Oct 3, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=f4d4-PVrtiI"><img width="140px" src="https://i.ytimg.com/vi/f4d4-PVrtiI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=f4d4-PVrtiI">Spatial Transcriptomics - Part 2: Exploring Seurat Object</a><br/>Sep 26, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 ---
 
