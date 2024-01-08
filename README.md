@@ -44,16 +44,16 @@ Some information for GitHub:
 - [iTIME: interactive Tumor Immune MicroEnvironment! &lpar;#Hackathon2020&rpar;](https://www.youtube.com/watch?v=Hk9v4hMkoWo)
 <!-- YOUTUBE:END -->
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=K9xmd-HlBtg"><img width="140px" src="https://i.ytimg.com/vi/K9xmd-HlBtg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kLfrPQvX9AU"><img width="140px" src="https://i.ytimg.com/vi/kLfrPQvX9AU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kLfrPQvX9AU">Programming-Free Spatial Transcriptomics Analysis with spatialGE- Part 1</a><br/>Jan 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kfg9YtIxBv0"><img width="140px" src="https://i.ytimg.com/vi/kfg9YtIxBv0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kfg9YtIxBv0">Multiple Sequence Alignment at the Terminal with Conda</a><br/>Jan 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=1RglPhBfYQY"><img width="140px" src="https://i.ytimg.com/vi/1RglPhBfYQY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1RglPhBfYQY">Spatial Clustering with spatialTIME - Understanding Ripley&#39;s K and Nearest Neighbor G</a><br/>Jan 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=K9xmd-HlBtg"><img width="140px" src="https://i.ytimg.com/vi/K9xmd-HlBtg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=K9xmd-HlBtg">Spatial Transcriptomics - Part 5: Univariate Spatial Clustering Calculation</a><br/>Dec 30, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rJEdfWkxkP4"><img width="140px" src="https://i.ytimg.com/vi/rJEdfWkxkP4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rJEdfWkxkP4">Running RStudio with Docker</a><br/>Dec 28, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2fGWpRWBo6w"><img width="140px" src="https://i.ytimg.com/vi/2fGWpRWBo6w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2fGWpRWBo6w">Assembling First Server Rack - Vivo 12U</a><br/>Dec 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_z6WPasIK8U"><img width="140px" src="https://i.ytimg.com/vi/_z6WPasIK8U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_z6WPasIK8U">Creating a conda Environment for Pytorch and Cuda</a><br/>Oct 18, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=w8i9BVc8pds"><img width="140px" src="https://i.ytimg.com/vi/w8i9BVc8pds/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=w8i9BVc8pds">Spatial Transcriptomics - Part 4: Unsupervised InSituType</a><br/>Oct 11, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 ---
 
