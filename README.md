@@ -44,7 +44,9 @@ Some information for GitHub:
 - [iTIME: interactive Tumor Immune MicroEnvironment! &lpar;#Hackathon2020&rpar;](https://www.youtube.com/watch?v=Hk9v4hMkoWo)
 <!-- YOUTUBE:END -->
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=adBkaA9jrlY"><img width="140px" src="https://i.ytimg.com/vi/adBkaA9jrlY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tAbhphyQz8g"><img width="140px" src="https://i.ytimg.com/vi/tAbhphyQz8g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tAbhphyQz8g">SpaitalGE-Web - A User-Friendly Platform for Spatial Transcriptomics</a><br/>May 23, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=adBkaA9jrlY"><img width="140px" src="https://i.ytimg.com/vi/adBkaA9jrlY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=adBkaA9jrlY">Spatial Transcriptomics - Part 4.1: Supervised Phenotyping with InSituType</a><br/>Feb 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oF7MYjQv1zA"><img width="140px" src="https://i.ytimg.com/vi/oF7MYjQv1zA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oF7MYjQv1zA">Testing Pytorch Auto-Encoder Code &lpar;Deep Learning&rpar;</a><br/>Feb 2, 2024</td></tr></table>
@@ -52,8 +54,6 @@ Some information for GitHub:
 <td><a href="https://www.youtube.com/watch?v=vDFJke8r5zA">Spatial Transcriptomics - Part 7: Ligand-Receptor Spatial Autocorrelation</a><br/>Jan 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=is82nyAfWq4"><img width="140px" src="https://i.ytimg.com/vi/is82nyAfWq4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=is82nyAfWq4">Docker Containers from Dockerhub with TrueNAS Scale</a><br/>Jan 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7i2hCQlK_-8"><img width="140px" src="https://i.ytimg.com/vi/7i2hCQlK_-8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7i2hCQlK_-8">Spatial Transcriptomics - Part 6.2: Spatial Permutations of High Scores</a><br/>Jan 13, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 ---
 
