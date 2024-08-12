@@ -46,14 +46,14 @@ Some information for GitHub:
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OAvLsQtrwVU"><img width="140px" src="https://i.ytimg.com/vi/OAvLsQtrwVU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OAvLsQtrwVU">Keeping Interactive Jobs Running While Closing the Terminal - TMUX</a><br/>Jul 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fiB8dmLQWUc"><img width="140px" src="https://i.ytimg.com/vi/fiB8dmLQWUc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fiB8dmLQWUc">Update &lpar;Faculty!&rpar; and Kidney Cancer Research Summit!</a><br/>Jul 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tAbhphyQz8g"><img width="140px" src="https://i.ytimg.com/vi/tAbhphyQz8g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tAbhphyQz8g">SpaitalGE-Web - A User-Friendly Platform for Spatial Transcriptomics</a><br/>May 23, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=adBkaA9jrlY"><img width="140px" src="https://i.ytimg.com/vi/adBkaA9jrlY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=adBkaA9jrlY">Spatial Transcriptomics - Part 4.1: Supervised Phenotyping with InSituType</a><br/>Feb 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oF7MYjQv1zA"><img width="140px" src="https://i.ytimg.com/vi/oF7MYjQv1zA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oF7MYjQv1zA">Testing Pytorch Auto-Encoder Code &lpar;Deep Learning&rpar;</a><br/>Feb 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vDFJke8r5zA"><img width="140px" src="https://i.ytimg.com/vi/vDFJke8r5zA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vDFJke8r5zA">Spatial Transcriptomics - Part 7: Ligand-Receptor Spatial Autocorrelation</a><br/>Jan 30, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 ---
 
