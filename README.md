@@ -1,4 +1,4 @@
-### Hi there, I'm Alex Soupir, a Postdoctoral Research Fellow at Moffitt Cancer Center 👋
+### Hi there, I'm Alex Soupir, a Collaborative Faculty Member at Moffitt Cancer Center 👋
 
 <!--
 **ACSoupir/ACSoupir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
